@@ -11,4 +11,4 @@
 ### Follow Me:
 [![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=B4068E)](https://vk.com/kiraykor/)
 [![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=4F7DB3)](https://www.linkedin.com/in/kirillkor/)
-[![leetcode](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=leetcode&logoColor=B4068E)](https://leetcode.com/kira_001/)
+[![leetcode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=B4068E)](https://leetcode.com/kira_001/)
